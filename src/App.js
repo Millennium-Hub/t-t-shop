@@ -2,13 +2,20 @@
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
 import HomePage from './components/home';
+import ProductDetail from './components/productdetails';
+import data from './assets/data';
 
-function App() {
+function App () {
   return (
     <div>
-     <Routes>
+      <Routes>
         <Route path="/" element={<HomePage />} />
-     </Routes>
+
+        <Route
+          path="/:categoryId/products/:productId"
+          element={<ProductDetail products={data.categories} />}
+        />
+      </Routes>
     </div>
   );
 }
