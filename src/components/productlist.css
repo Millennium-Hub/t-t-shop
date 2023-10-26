@@ -2,7 +2,7 @@
     display: flex;
 }
 
-li {
+.card {
     border-radius: 5px;
     padding: 0.5rem;
     background: rgb(112, 146, 226);
