@@ -11,6 +11,7 @@ const data = {
           description:
             "Adorable baby onesie made from soft, breathable fabric.",
           size: "0-3 months",
+          amount: 1, 
         },
         {
           id: "102",
@@ -18,6 +19,7 @@ const data = {
           price: 19.99,
           description: "Cute pajama set for a good night's sleep.",
           size: "6-12 months",
+          amount: 1, 
         },
         {
           id: "103",
@@ -25,6 +27,7 @@ const data = {
           price: 12.99,
           description: "Stylish and comfortable baby romper.",
           size: "3-6 months",
+          amount: 1, 
         },
         {
           id: "104",
@@ -32,6 +35,7 @@ const data = {
           price: 8.99,
           description: "Bundle of 5 soft and colorful baby socks.",
           size: "0-6 months",
+          amount: 1, 
         },
         {
           id: "105",
@@ -39,6 +43,7 @@ const data = {
           price: 9.99,
           description: "Protect your baby from the sun with this adorable hat.",
           size: "6-12 months",
+          amount: 1, 
         },
         {
           id: "106",
@@ -46,6 +51,7 @@ const data = {
           price: 7.99,
           description: "Set of 3 waterproof and easy-to-clean baby bibs.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "107",
@@ -53,6 +59,7 @@ const data = {
           price: 14.99,
           description: "Soft and flexible baby shoes for little feet.",
           size: "0-12 months",
+          amount: 1, 
         },
         {
           id: "108",
@@ -60,6 +67,7 @@ const data = {
           price: 24.99,
           description: "Warm and cozy baby blanket for snuggling.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "109",
@@ -67,6 +75,7 @@ const data = {
           price: 17.99,
           description: "Two-pack of breathable and versatile swaddle blankets.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "110",
@@ -75,6 +84,7 @@ const data = {
           description:
             "Set of 3 comfortable baby T-shirts in different colors.",
           size: "0-6 months",
+          amount: 1, 
         },
       ],
     },
@@ -88,6 +98,7 @@ const data = {
           price: 29.99,
           description: "Supportive nursing pillow for breastfeeding moms.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "202",
@@ -96,6 +107,7 @@ const data = {
           description:
             "Stylish and comfortable maternity dress for expecting mothers.",
           size: "S, M, L, XL",
+          amount: 1, 
         },
         {
           id: "203",
@@ -103,6 +115,7 @@ const data = {
           price: 99.99,
           description: "Electric breast pump for convenient milk expression.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "204",
@@ -110,6 +123,7 @@ const data = {
           price: 19.99,
           description: "Supportive wrap for postpartum recovery.",
           size: "S, M, L",
+          amount: 1, 
         },
         {
           id: "205",
@@ -117,6 +131,7 @@ const data = {
           price: 22.99,
           description: "Two-pack of comfortable and adjustable nursing bras.",
           size: "S, M, L, XL",
+          amount: 1, 
         },
         {
           id: "206",
@@ -124,6 +139,7 @@ const data = {
           price: 12.99,
           description: "Essential vitamins for expectant mothers.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "207",
@@ -131,6 +147,7 @@ const data = {
           price: 8.99,
           description: "Disposable nursing pads for leak protection.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "208",
@@ -138,6 +155,7 @@ const data = {
           price: 27.99,
           description: "Comfortable and stretchy leggings for moms-to-be.",
           size: "S, M, L, XL",
+          amount: 1, 
         },
         {
           id: "209",
@@ -145,6 +163,7 @@ const data = {
           price: 14.99,
           description: "Privacy and comfort for nursing on the go.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "210",
@@ -152,6 +171,7 @@ const data = {
           price: 9.99,
           description: "Moisturizing cream to help prevent stretch marks.",
           size: "One size",
+          amount: 1, 
         },
       ],
     },
@@ -165,6 +185,7 @@ const data = {
           price: 12.99,
           description: "Soft and huggable bunny plush toy for kids.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "302",
@@ -172,6 +193,7 @@ const data = {
           price: 19.99,
           description: "Set of wooden blocks for creative play.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "303",
@@ -179,6 +201,7 @@ const data = {
           price: 16.99,
           description: "Colorful and stimulating mobile for baby's crib.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "304",
@@ -186,6 +209,7 @@ const data = {
           price: 14.99,
           description: "Art supplies kit for budding young artists.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "305",
@@ -193,6 +217,7 @@ const data = {
           price: 24.99,
           description: "Fun and easy-to-control remote car for kids.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "306",
@@ -201,6 +226,7 @@ const data = {
           description:
             "Large puzzle playmat for interactive learning and play.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "307",
@@ -209,6 +235,7 @@ const data = {
           description:
             "Cute and practical backpack with a plush animal design.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "308",
@@ -216,6 +243,7 @@ const data = {
           price: 13.99,
           description: "Set of educational board books for young readers.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "309",
@@ -224,6 +252,7 @@ const data = {
           description:
             "Versatile building and construction set for kids' creativity.",
           size: "One size",
+          amount: 1, 
         },
         {
           id: "310",
@@ -232,9 +261,11 @@ const data = {
           description:
             "Set of musical instruments for kids to explore sound and rhythm.",
           size: "One size",
+          amount: 1, 
         },
       ],
     },
   ],
 };
+
 export default data;
