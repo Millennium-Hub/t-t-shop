@@ -27,6 +27,8 @@ function App() {
 		setTimeout(() => {
 		  setWarning(false);
 		}, 2000);
+
+    return;
 	  } else {
 		setAlert(true);
 		setTimeout(() => {
