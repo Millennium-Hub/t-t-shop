@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    background-color: #fcc6c6;
+    padding: 10px;
+  }
+
+.image {
+   width: 44px;
+   height: auto;
+}
+
+.home {
+   width: 40px;
+   height: auto;
+}
+
+.cart {
+    display: inline;
+}
+
+.h-cover {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}

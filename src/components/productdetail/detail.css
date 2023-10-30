@@ -1,0 +1,27 @@
+.detail {
+    display: flex;
+    margin: 37px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.item-info {
+    height: auto;
+    border-radius: 11px;
+    background-color: #ffd7d7;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.btn {
+    font-size: large;
+    font-weight: 900;
+    font-family: cursive;
+    height: 36px;
+    background-color: #ffffd5
+}

@@ -1,0 +1,15 @@
+.input-field {
+  padding: 10px;
+  width: 50%;
+}
+
+.text {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.result {
+  background-color: rgba(0, 128, 0, 0.671);
+  width: 100%;
+}
